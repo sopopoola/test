@@ -1,0 +1,32 @@
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.Form1.resources
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.csproj.GenerateResource.cache
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\bin\Debug\net6.0-windows\Lab8.exe
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\bin\Debug\net6.0-windows\Lab8.deps.json
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\bin\Debug\net6.0-windows\Lab8.runtimeconfig.json
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\bin\Debug\net6.0-windows\Lab8.dll
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\bin\Debug\net6.0-windows\Lab8.pdb
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.dll
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\obj\Debug\net6.0-windows\refint\Lab8.dll
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.pdb
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\edann\Desktop\school fall 2023\Lab8\Lab8\obj\Debug\net6.0-windows\ref\Lab8.dll
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\bin\Debug\net6.0-windows\Lab8.exe
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\bin\Debug\net6.0-windows\Lab8.deps.json
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\bin\Debug\net6.0-windows\Lab8.runtimeconfig.json
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\bin\Debug\net6.0-windows\Lab8.dll
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\bin\Debug\net6.0-windows\Lab8.pdb
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.Form1.resources
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.csproj.GenerateResource.cache
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.dll
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\obj\Debug\net6.0-windows\refint\Lab8.dll
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.pdb
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\obj\Debug\net6.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\popoolso\Downloads\Lab8\Lab8\Lab8\obj\Debug\net6.0-windows\ref\Lab8.dll
