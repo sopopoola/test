@@ -44,6 +44,7 @@ namespace Lab8
             Dictionary<string, int> dictionaryOfWords = new Dictionary<string, int>();
             foreach (var word in arrayOfWords)
             {
+                // add test here
                 if (dictionaryOfWords.ContainsKey(word))
                 {
                     dictionaryOfWords[word]++;
