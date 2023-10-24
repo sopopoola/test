@@ -37,9 +37,10 @@
             // 
             // browseButton
             // 
-            browseButton.Location = new Point(473, 54);
+            browseButton.Location = new Point(591, 68);
+            browseButton.Margin = new Padding(4, 4, 4, 4);
             browseButton.Name = "browseButton";
-            browseButton.Size = new Size(94, 29);
+            browseButton.Size = new Size(118, 36);
             browseButton.TabIndex = 0;
             browseButton.Text = "Browse";
             browseButton.UseVisualStyleBackColor = true;
@@ -47,18 +48,21 @@
             // 
             // submitButton
             // 
-            submitButton.Location = new Point(242, 397);
+            submitButton.Location = new Point(302, 496);
+            submitButton.Margin = new Padding(4, 4, 4, 4);
             submitButton.Name = "submitButton";
-            submitButton.Size = new Size(94, 29);
+            submitButton.Size = new Size(118, 36);
             submitButton.TabIndex = 1;
             submitButton.Text = "Submit";
             submitButton.UseVisualStyleBackColor = true;
+            submitButton.Click += submitButton_Click;
             // 
             // exitButton
             // 
-            exitButton.Location = new Point(455, 397);
+            exitButton.Location = new Point(569, 496);
+            exitButton.Margin = new Padding(4, 4, 4, 4);
             exitButton.Name = "exitButton";
-            exitButton.Size = new Size(94, 29);
+            exitButton.Size = new Size(118, 36);
             exitButton.TabIndex = 2;
             exitButton.Text = "Exit";
             exitButton.UseVisualStyleBackColor = true;
@@ -66,30 +70,33 @@
             // 
             // searchBox
             // 
-            searchBox.Location = new Point(193, 56);
+            searchBox.Location = new Point(241, 70);
+            searchBox.Margin = new Padding(4, 4, 4, 4);
             searchBox.Name = "searchBox";
-            searchBox.Size = new Size(252, 27);
+            searchBox.Size = new Size(314, 31);
             searchBox.TabIndex = 3;
             // 
             // listBox
             // 
             listBox.FormattingEnabled = true;
-            listBox.ItemHeight = 20;
-            listBox.Location = new Point(242, 112);
+            listBox.ItemHeight = 25;
+            listBox.Location = new Point(302, 140);
+            listBox.Margin = new Padding(4, 4, 4, 4);
             listBox.Name = "listBox";
-            listBox.Size = new Size(307, 244);
+            listBox.Size = new Size(383, 304);
             listBox.TabIndex = 4;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1000, 562);
             Controls.Add(listBox);
             Controls.Add(searchBox);
             Controls.Add(exitButton);
             Controls.Add(submitButton);
             Controls.Add(browseButton);
+            Margin = new Padding(4, 4, 4, 4);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;

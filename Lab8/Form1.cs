@@ -24,14 +24,7 @@ namespace Lab8
             this.Close();
         }
 
-        private async void Form1_Load(object sender, EventArgs e)
-        {
-            listBox.Items.Clear();
-            List<Task> tasks = new List<Task>();
-            var wordTask = ReadBook(fileName);
-            tasks.Add(wordTask);
-            await Task.WhenAll(tasks);
-        }
+       
 
         private async Task ReadBook(string fileName)
         {
@@ -59,6 +52,15 @@ namespace Lab8
             {
                 listBox.Items.Add(word.Key + " - " + word.Value);
             }
+        }
+
+        private async Task submitButton_Click(object sender, EventArgs e)
+        {
+            listBox.Items.Clear();
+            List<Task> tasks = new List<Task>();
+            var wordTask = ReadBook(fileName);
+            tasks.Add(wordTask);
+            await Task.WhenAll(tasks);
         }
     }
 }
